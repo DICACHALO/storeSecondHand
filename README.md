@@ -1,0 +1,1 @@
+Página web para una tienda online de productos de segunda mano
