@@ -1,1 +1,1 @@
-Página web para una tienda online de productos de segunda mano
+Website for an online store of second-hand products.
